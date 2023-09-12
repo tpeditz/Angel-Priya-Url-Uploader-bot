@@ -15,7 +15,7 @@
     ],
   "success_url": "https://t.me/LazyDeveloper",
   "website": "https://github.com/LazyDeveloperr",
-  "repository": "https://github.com/tpeditz/Angel-Priya-Url-Uploader-bot"
+  "repository": "https://github.com/tpeditz/Angel-Priya-Url-Uploader-bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
